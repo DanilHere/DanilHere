@@ -17,6 +17,8 @@
 
 ## 👾 About Me
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,vim,vscode" /> </p>
+
 ```bash
 > whoami
 
