@@ -1,6 +1,10 @@
 # 👋 Hey, I'm Danil
 
 <p align="center">
+  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="230"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8313F2&center=true&vCenter=true&width=500&lines=CTF+Player;Cybersecurity+Enthusiast;Networking+Enjoyer;Linux+User;Web+Exploitation+Learner" alt="Typing SVG" />
 </p>
 
